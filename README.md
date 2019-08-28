@@ -1,45 +1,46 @@
-# [JAMstack Multiverse](https://appseed.us/apps/jamstack/jamstack-multiverse-pixelarity)
+# [Site Fotografie Multiverse](https://site-fotografie-multiverse.websitemarket.ro/)
 
-Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Multiverse Pixelarity design.
-
-<br />
-
-![JAMstack Multiverse - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-multiverse-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## License
-
-This is a commercial application, to use it you need to buy a license. Please access [AppSeed](https://appseed.us/pricing) for more information.
+![Site Fotografie Multiverse](https://raw.githubusercontent.com/creare-site/static/master/produse/site-fotografie-multiverse-intro.gif)
 
 <br />
 
-## App Links
+## Informatii produs
 
-- [Jamstack Multiverse](https://jamstack-multiverse.appseed.us/) - live demo
-- [Pixelarity Multiverse](https://pixelarity.com/multiverse) - the design provided by Pixelarity 
+- Site de prezentare - Multiverse
+- Live [DEMO](https://site-fotografie-multiverse.websitemarket.ro)
+ 
+<br />
+
+## Licenta
+
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
-## How to use it
+## Utilizare (pentru dezvoltatori)
 
-- Clone this repo `git clone https://github.com/app-generator/priv-jamstack-multiverse.git`
-- change directory to `priv-jamstack-multiverse`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
+
+```
+$ git clone https://github.com/creare-site/site-fotografie-multiverse.git
+$ cd site-fotografie-multiverse
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
 
 <br />
 
-## [JAMstack](https://jamstack.org/) resources
+## Suport
 
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
-- [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
-- [JAMstack.org](https://jamstack.org/)
-- A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[JAMstack Multiverse](https://appseed.us/apps/jamstack/jamstack-multiverse-pixelarity) - provided by **AppSeed**
+[Site Fotografie Multiverse](https://site-fotografie-multiverse.websitemarket.ro/) un produs **WebsiteMarket**

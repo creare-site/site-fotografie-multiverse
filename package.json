@@ -1,7 +1,7 @@
 {
-    "name": "jamstack-multiverse",
+    "name": "site-fotografie-multiverse",
     "version": "0.0.1",
-    "description": "JAMstack - Blazing fast app with Multiverse design by Pixelarity",
+    "description": "Site Fotografie - Multiverse Design. Un produs WebsiteMarket",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
@@ -29,13 +29,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/app-generator/priv-jamstack-multiverse"
+        "url": "https://github.com/creare-site/site-fotografie-multiverse"
     },
     "bugs": {
-        "url": "https://github.com/app-generator/priv-jamstack-multiverse/issues",
-        "email": "support@appseed.us"
+        "url": "https://github.com/creare-site/site-fotografie-multiverse/issues",
+        "email": "hello@websitemarket.ro"
     },
-    "author": "AppSeed <support@appseed.us> (https://appseed.us)",
+    "author": "WebsiteMarket <hello@websitemarket.ro> (https://websitemarket.ro)",
     "license": "Commercial",
     "private": false,
     "dependencies": {
